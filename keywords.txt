@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Thread	KEYWORD1
+Misi	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+runner	KEYWORD2
+set2runner	KEYWORD2
+add	KEYWORD2
+run	KEYWORD2
+canRun	KEYWORD2
+set_value	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
